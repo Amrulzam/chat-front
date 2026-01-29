@@ -1,7 +1,7 @@
 {
   "name": "chat-front",
   "version": "0.1.0",
-  "homepage": "https://amrulzam.github.io/chat-front",
+  "homepage": "https://Amrulzam.github.io/chat-front",
   "private": true,
   "dependencies": {
     "@emoji-mart/data": "^1.2.1",
